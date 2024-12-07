@@ -120,11 +120,11 @@ export default function Container(props: ContainerProps) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://www.rizkwya.xyz${router.asPath}`}
+          content={`https://rizkwya.stackuniversal.com${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://www.rizkwya.xyz${router.asPath}`}
+          href={`https://rizkwya.stackuniversal.com${router.asPath}`}
         />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="rizk" />
